@@ -244,18 +244,18 @@ export default function HomePage() {
           </div>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             <TestimonialCard
-              name="Rajesh Kumar"
+              name="Aniyayi John"
               role="Business Owner"
               testimonial="Mathew Joy Services made the business loan process incredibly smooth. Their expert team guided me through every step, and I received the funds much faster than expected."
             />
             <TestimonialCard
-              name="Priya Sharma"
-              role="Homeowner"
+              name="Jithin P Nainan"
+              role="Engineerr"
               testimonial="I was struggling to find the right home loan until I approached Mathew Joy Services. They offered me a great interest rate and flexible repayment options that perfectly suited my needs."
             />
             <TestimonialCard
-              name="Anand Patel"
-              role="Parent"
+              name="Eby P Kunjumon"
+              role="Government Service"
               testimonial="Getting an education loan for my daughter's overseas studies was a breeze with Mathew Joy Services. Their transparent process and quick approval helped us plan her education without financial stress."
             />
           </div>
