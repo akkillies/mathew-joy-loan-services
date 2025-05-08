@@ -250,7 +250,7 @@ export default function HomePage() {
             />
             <TestimonialCard
               name="Jithin P Nainan"
-              role="Engineerr"
+              role="Engineer"
               testimonial="I was struggling to find the right home loan until I approached Mathew Joy Services. They offered me a great interest rate and flexible repayment options that perfectly suited my needs."
             />
             <TestimonialCard
